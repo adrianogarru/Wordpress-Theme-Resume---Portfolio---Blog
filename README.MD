@@ -7,6 +7,13 @@
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 - This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you've learned with others.
 
+
+Realese History:
+- Newest: 1.1 date 25/07/2020 Wp-theme-online-resume-blog-1.1.zip
+ - Added the pagination on the content.php and adjustment style (maring button) solved issue bootstrap.min.css.map error 404
+- First version: 1.0 date 1/05/2020 file name: Wp-theme-online-resume-blog.zip
+
+
 *Please feel free to use this code (No copyright applied) but any issue occurred will be at your responsibility. I am open to idea on review of this code, highly appreciate for my personal development.
 
 It is possible to find the static version [Git Repository](https://github.com/adrianogarru/Template-portfolio-resume-in-Bootstrap)
