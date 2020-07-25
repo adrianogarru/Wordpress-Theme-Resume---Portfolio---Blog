@@ -42,7 +42,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
     margin-bottom: 10px;
 }
 @media (max-width: 575px) {
-.customclass-post-thumb {
+.customclass-post-thumb img {
     height: 40%; 
 }
 }
