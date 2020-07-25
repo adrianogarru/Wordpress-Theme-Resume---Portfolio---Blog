@@ -25,7 +25,7 @@
   <!-- Start Header -->
   <div class="container shadow p-3 mb-5 bg-white">
     <div class="row">
-      <div class="col-md-4 col-sm-5 text-center "><img class="customclass-foto" alt="" src="<?php header_image(); ?>" width="<?php echo absint( get_custom_header()->width ); ?>" height="<?php echo absint( get_custom_header()->height ); ?>"></div>
+      <div class="col-md-4 col-sm-5 text-center"><img class="customclass-foto" alt="" src="<?php header_image(); ?>" width="<?php echo absint( get_custom_header()->width ); ?>" height="<?php echo absint( get_custom_header()->height ); ?>"></div>
       <div class="col-md-6 col-sm-5">
         <h1 class="text-uppercase customclass-sm-center" ><?php bloginfo('name'); ?></h1>
         <!--Name Surname -->

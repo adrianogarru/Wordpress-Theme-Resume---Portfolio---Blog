@@ -5,8 +5,8 @@
     </div>
   </div>
   <div class="row">
-    <div class="footer-copyright text-center py-3"><p class="text-muted">Developed by:
-      <a href="https://adrianogarruba.com" target="_blank">Adriano Garruba</a> find a<a href="https://github.com/adrianogarru/Wordpress-Theme-Resume---Portfolio---Blog" target="_blank"> Git Repository</p>
+    <div class="footer-copyright text-center py-3 ml-2"><p class="text-muted">Developed by:
+      <a href="https://adrianogarruba.com" target="_blank">Adriano Garruba</a> find a<a href="https://github.com/adrianogarru/Wordpress-Theme-Resume---Portfolio---Blog" target="_blank">Git Repository</p>
     </div>
 <!--END footer-->
   </div>

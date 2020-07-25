@@ -29,9 +29,9 @@ function wbp_theme_setup(){
 
 $args = array(
     'flex-width'    => false,
-    'width'         => 220,
+    'width'         => 210,
     'flex-height'   => false,
-    'height'        => 220,
+    'height'        => 210,
     'default-image' => get_template_directory_uri() . '/images/header.jpg',
 );
 add_theme_support( 'custom-header', $args );
